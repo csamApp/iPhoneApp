@@ -1,0 +1,13 @@
+//
+//  testGITTests.h
+//  testGITTests
+//
+//  Created by C-Sam on 27/9/12.
+//  Copyright (c) 2012 C-Sam. All rights reserved.
+//
+
+#import <SenTestingKit/SenTestingKit.h>
+
+@interface testGITTests : SenTestCase
+
+@end
